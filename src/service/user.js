@@ -1,6 +1,6 @@
 import axios from "axios"
-// const url = `https://gmail-clone-backend-qrqi.onrender.com`;
-const url=`http://localhost:8005`
+const API_URL = `https://gmail-clone-backend-2ovm.onrender.com`;
+// const API_URL = `http://localhost:8005`;
 
 export const login=async(user)=>{
 try {
