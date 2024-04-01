@@ -111,6 +111,10 @@ export default function SignIn() {
                   </Link>
                 </Grid>
               </Grid>
+               <Grid item xs>
+              <h5>Email- ishqriyaq@gmail.com</h5>
+              <h5>Pass- 12345678 </h5>
+              </Grid>
             </Box>
           </Box>
         </Container>
